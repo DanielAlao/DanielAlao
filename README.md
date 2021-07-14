@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielAlao
 - 👀 I’m interested in Web Development, Enterprise Application
 - 💞️ I’m looking to collaborate on new exciting projects and experience opportunities
-- 📫 How to reach me: bidem_daniel@yahoo.com
+- 📫 How to reach me: bidemi_daniel@yahoo.com
 -  My final year project video: https://www.youtube.com/watch?v=x2St_Vb3K6k
 
 <!---
