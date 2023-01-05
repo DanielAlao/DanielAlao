@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate on new exciting projects and experience opportunities
 - 📫 How to reach me: bidemi_daniel@yahoo.com
 -  My final year project video: https://www.youtube.com/watch?v=x2St_Vb3K6k
+-  You can find me on LinkedIn: https://www.linkedin.com/in/daniel-alao-37a141195/
 
 <!---
 DanielAlao/DanielAlao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
